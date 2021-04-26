@@ -23,4 +23,3 @@
 ## git checkout 브런치이름 : 해당 브런치로 이동하는 명령어
 
 ## git merge FETCH_HEAD : FETCH_HEAD를 지금ㄴ 작업 중인 branch와 합치는 명령어
-
